@@ -10,6 +10,6 @@ setuptools>=65.5.1
 translate>=3.2.1
 protobuf>=3.11.3
 pytest>=6.0.1
-requests>=2.31.0
+requests>=2.32.0
 types-requests>=2.25.1
 certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
