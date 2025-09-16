@@ -4,7 +4,7 @@
 ansicolors>=1.0.2
 django>=5.0.14
 django-debug-toolbar>=3.8.0,<4
-django-stubs>=1.10.0
+django-stubs>=5.2.0
 gunicorn>=20.1.0
 setuptools>=65.5.1
 translate>=3.2.1
